@@ -3,6 +3,10 @@
 Himanshu SMis a lightweight, modern, and interactive study dashboard designed for students to manage schedules, track daily study goals, stay focused with a Pomodoro timer, and organize subjects efficiently.
 
 ---
+## Live Demo
+
+* **Live Preview:** [Click Here to View Live Project](https://HimanshuYadav02.github.io/STUDENT-MANAGEMENT-SYSTEM/)
+* **Source Code:** [GitHub Repository](https://github.com/HimanshuYadav02/STUDENT-MANAGEMENT-SYSTEM)
 
 ## 🚀 Features
 
